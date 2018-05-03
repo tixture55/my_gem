@@ -11,6 +11,7 @@ module MyRubygem
 
     def configuration
       @configuration ||= MyRubygem::Configuration.new
+      @configuration.reset_config
     end
   end
 end
