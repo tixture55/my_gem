@@ -1,6 +1,6 @@
 require "my_rubygem/version"
 require "my_rubygem/configuration"
-require "my_rubygem/base"
+#require "my_rubygem/base"
 
 
 module MyRubygem
